@@ -1,0 +1,6 @@
+import cn.hutool.core.collection.ConcurrentHashSet;
+public class FunctionUse392 {
+public void funcUse() {
+ConcurrentHashSet concurrenthashset = new ConcurrentHashSet();
+}
+}
